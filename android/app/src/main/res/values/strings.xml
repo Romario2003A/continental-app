@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">continental-app</string>
+    <string name="title_activity_main">continental-app</string>
+    <string name="package_name">com.romariotec.continental</string>
+    <string name="custom_url_scheme">com.romariotec.continental</string>
+</resources>
