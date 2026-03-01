@@ -1,16 +1,38 @@
-# React + Vite
+Calculadora de Promedio de Notas - Universidad Continental
+Descripción
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto consiste en una aplicación web desarrollada con React + Vite que permite calcular el promedio de notas de manera rápida y eficiente.
 
-Currently, two official plugins are available:
+Fue desarrollado como parte de mi formación en Ingeniería de Sistemas, con el objetivo de aplicar conocimientos de desarrollo frontend, estructura de proyectos modernos y buenas prácticas en programación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La aplicación busca simplificar el cálculo manual de promedios académicos para estudiantes de la Universidad Continental.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  Tecnologías Utilizadas
 
-## Expanding the ESLint configuration
+-  React
+-  Vite
+-  Tailwind CSS
+-  Node.js
+-  ESLint
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+  Funcionalidades
+
+- Ingreso dinámico de notas
+- Cálculo automático del promedio
+- Interfaz moderna y responsiva
+- Validación básica de datos
+
+
+Clonar el repositorio
+
+bash
+git clone https://github.com/Romario2003A/continental-app.git
+
+
+Autor
+
+Romario Quispe
+Estudiante de Ingeniería de Sistemas
+Universidad Continental
